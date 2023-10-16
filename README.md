@@ -1,4 +1,4 @@
-# AtCoder
+# AtCoder Beginner Contest
 
 |Contest|A|B|
 |:---:|:---:|:---:|
