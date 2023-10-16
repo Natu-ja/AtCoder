@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/abc323/tasks/abc323_a
+
 text = list(input())
 
 start, stop, step = 2, 16, 2
