@@ -2,4 +2,4 @@
 
 |Contest|A|
 |:---:|:---:|
-|ABC324|Same|
+|[ABC324](https://atcoder.jp/contests/abc324)|[Same](A_Same.py)|
